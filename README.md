@@ -36,6 +36,11 @@ I'm a Computer Engineering student at **UFRJ (Escola Politécnica)** and **CTO &
 - [**Vehicle Mobility Impact on Performance of Multi-Access Edge Computing**](https://ieeexplore.ieee.org/document/10815763) — *VehiClouds'24 (IEEE CloudNet)*, international
 - [**Caracterização da Latência de Borda sob Efeito de Mobilidade a Partir de Dados Reais**](https://sol.sbc.org.br/index.php/wgrs/article/view/30091) — *WGRS'24 (SBC)*, national
 
+### 🚀 Featured projects
+
+- **[WolfLatency](https://github.com/GTA-UFRJ/WolfLatency)** — Android client/server toolkit (Kotlin/Compose) that measures edge (MEC) latency under mobility on real 4G/5G networks. Powers the data behind both papers above.
+- **[Edge Latency under Mobility](https://github.com/fluiz7/Experimentos)** — Python analysis (pandas · scikit-learn · matplotlib) turning those measurements into the figures and statistics reported in the publications.
+
 ### 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
