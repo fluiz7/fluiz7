@@ -38,6 +38,7 @@ I'm a Computer Engineering student at **UFRJ (Escola Politécnica)** and **CTO &
 
 ### 🚀 Featured projects
 
+- **[grounded-rag](https://github.com/fluiz7/grounded-rag)** — Multi-agent RAG with a groundedness critic: a LangGraph pipeline (Retriever → Answerer → Critic) that verifies every answer against sources and retries retrieval when evidence is missing. Runs 100% locally (Ollama + Chroma).
 - **[WolfLatency](https://github.com/GTA-UFRJ/WolfLatency)** — Android client/server toolkit (Kotlin/Compose) that measures edge (MEC) latency under mobility on real 4G/5G networks. Powers the data behind both papers above.
 - **[Edge Latency under Mobility](https://github.com/fluiz7/Experimentos)** — Python analysis (pandas · scikit-learn · matplotlib) turning those measurements into the figures and statistics reported in the publications.
 
