@@ -20,15 +20,16 @@
 
 I'm a Computer Engineering student at **UFRJ (Escola Politécnica)** and **CTO & Co-Founder of [Sokrates.AI](https://www.linkedin.com/company/sokrates-ai/)**, an award-winning startup applying Socratic AI to education. I work end-to-end on modern AI products — from multi-agent architectures and RAG pipelines to cloud infrastructure and accessible interfaces — backed by a research foundation in edge computing and 5G networks.
 
-- 🚀 Leading tech strategy & architecture at Sokrates.AI (multi-agent systems, RAG, hybrid AWS + on-prem infra)
-- 🔬 Former research intern at **GTA/UFRJ** — edge computing, MEC and 5G mobility, with two published papers
-- ♿ Web accessibility advocate (WCAG 2.2 / eMAG / ABNT NBR 17225)
+- 🚀 Leading tech & architecture at Sokrates.AI — multi-agent tutor (LangGraph, RAG, multi-provider LLM gateway) on AWS + GCP + on-prem, used by **69 teachers across 19 institutions**; in a pilot with RNP's Network College, **30 of 52 students** joined voluntarily and **72.7%** found the mentoring useful
+- 🔬 Former research intern at **GTA/UFRJ** — built an Android toolkit that collected **~20k latency samples** on real 4G/5G networks; two published papers + public dataset
+- ♿ Web accessibility (WCAG 2.2 / eMAG / ABNT NBR 17225) — audit of UFRJ's accessibility portal with **17 proposed fixes**
 - 🦀 Currently leveling up in **Rust** for high-performance backends
 
 ### 🏆 Highlights
 
 - 🥇 **1st place — IEEE AI Pioneer Summit 2025** (Brazil) with Sokrates.AI
 - 🌎 **Best Startup of Latin America — IEEE Region 9 Entrepreneurship 2025** (16 startups, 6 countries)
+- 🌍 **Finalist (4 of 38 startups) — IEEE Technology Summit 2026, AI Founder Showcase** (Budapest)
 - 🎓 Honorable mention — SIAC/UFRJ undergraduate research conference
 
 ### 🔬 Selected publications
@@ -41,7 +42,7 @@ I'm a Computer Engineering student at **UFRJ (Escola Politécnica)** and **CTO &
 - **[grounded-rag](https://github.com/fluiz7/grounded-rag)** — Multi-agent RAG with a groundedness critic: a LangGraph pipeline (Retriever → Answerer → Critic) that verifies every answer against sources and retries retrieval when evidence is missing. Runs 100% locally (Ollama + Chroma).
 - **[a11ybar](https://github.com/fluiz7/a11ybar)** — Zero-dependency accessibility toolbar mapped to WCAG 2.2 / eMAG 3.1 / ABNT NBR 17225, with opt-in VLibras — born from my accessibility-audit work at UFRJ. [Live demo](https://fluiz7.github.io/a11ybar/demo/).
 - **[emag-audit](https://github.com/fluiz7/emag-audit)** — CLI auditor for the Brazilian accessibility standards: 18 checks mapped to WCAG 2.2 + eMAG 3.1 that output instructional Markdown reports (diagnosis → fix proposals). Field-validated against WAVE/AMAWeb findings.
-- **[WolfLatency](https://github.com/GTA-UFRJ/WolfLatency)** — Android client/server toolkit (Kotlin/Compose) that measures edge (MEC) latency under mobility on real 4G/5G networks. Powers the data behind both papers above.
+- **[WolfLatency](https://github.com/GTA-UFRJ/WolfLatency)** — Android client/server toolkit (Kotlin/Compose) that measures edge (MEC) latency under mobility on real 4G/5G networks: ~20k samples collected in Rio de Janeiro, public dataset, data behind both papers above.
 - **[Edge Latency under Mobility](https://github.com/fluiz7/Experimentos)** — Python analysis (pandas · scikit-learn · matplotlib) turning those measurements into the figures and statistics reported in the publications.
 
 ### 🛠️ Tech stack
